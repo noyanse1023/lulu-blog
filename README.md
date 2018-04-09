@@ -2,17 +2,17 @@
 
 > noyanse's first blog
 
-*部分功能还在开发，初次接触node，还有很多不完善的地方，还请指教,暂时不支持移动端哦*
-#技术栈
+*部分功能还在开发，初次接触node，还有很多不完善的地方，还请指教
+# 技术栈
 - 前端：vue2.0,vue-router,-axios,vuex,es6,webpack
 - 后端：node,express,mysql
-#描述
+# 描述
 - 单页面应用：通过vue-router跳转
 - markdown编辑器：https://hinesboy.github.io/mavonEditor/dist/
 - 部分样式用了element-ui：http://element-cn.eleme.io/#/en-US/component/installation
-#功能
+# 功能
 
-##前台
+## 前台
 - 登录
 - 切换页面
 - 文章列表
@@ -24,7 +24,7 @@
 - 回复评论,待开发...
 - 点赞,待开发...
 
-##后台
+## 后台
 - 修改
 - 删除
 - 增加
